@@ -2,7 +2,7 @@
 
 #### :hammer_and_wrench: I'm a UX Architect with an interest in cogsci & neurobiology.
 
-#### :iphone: I'm currently building a native mobile banking app (UXR/UX/UI). 
+#### :iphone: I'm currently working on a mobile banking app (UXR/UX/UI). 
 
 #### :pencil2: My visual/written musings are under :construction:. 
 
