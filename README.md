@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hey, I'm Ioana :green_heart:
+
+#### :hammer_and_wrench: I'm a UX Architect with an interest in cogsci & neurobiology. 
+
+#### :iphone: I'm currently working on a mobile banking app. 
+
+#### :pencil2: My visual/written musings are under :construction:. 
+
+#### :compass: Currently gone :climbing:. Digitally within reach.
+
 
 <!--
 **idre07/idre07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +23,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
