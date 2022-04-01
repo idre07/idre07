@@ -1,4 +1,4 @@
-### > Hey, I'm Ioana :green_heart:
+### Hey, I'm Ioana :green_heart:
 
 #### :hammer_and_wrench: I'm a UX Architect with an interest in cogsci/genomics.
 
