@@ -4,7 +4,7 @@
 
 #### :iphone: I'm currently working on a mobile banking app (UXR/UX/UI). 
 
-#### :pencil2: My visual/written musings are under :construction:. 
+#### :pencil2: My [visual musings] (https://ioanabitoiu.myportfolio.com/) are under :construction:, yet feel free to take a glimpse.
 
 #### :compass: Currently gone :climbing:. Digitally within reach.
 
