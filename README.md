@@ -1,6 +1,6 @@
 ### Hey, I'm Ioana :green_heart:
 
-#### :hammer_and_wrench: I'm a UX Architect with an interest in cogsci/genomics.
+#### :hammer_and_wrench: I'm a UX Architect with an interest in cogsci, usability engineering & HCI.
 
 #### :iphone: I'm currently working on a mobile banking app (UXR/UX/UI). 
 
