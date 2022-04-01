@@ -1,12 +1,12 @@
-### Hey, I'm Ioana :green_heart:
+### > Hey, I'm Ioana :green_heart:
 
 #### :hammer_and_wrench: I'm a UX Architect with an interest in cogsci/genomics.
 
 #### :iphone: I'm currently working on a mobile banking app (UXR/UX/UI). 
 
-#### :pencil2: My [visual musings] (https://ioanabitoiu.myportfolio.com/) are under :construction:, yet feel free to take a glimpse.
+#### :art: My [visual musings](https://ioanabitoiu.myportfolio.com/) are under :construction:, yet feel free to take a glimpse.
 
-#### :compass: Currently gone :climbing:. Digitally within reach.
+#### :compass: Currently gone :earth_americas:. Digitally within reach.
 
 #### https://angel.co/u/ioana-bitoiu
 
