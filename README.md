@@ -8,8 +8,6 @@
 
 #### :compass: Currently gone :earth_americas:. Digitally within reach.
 
-#### https://angel.co/u/ioana-bitoiu
-
 
 <!--
 **idre07/idre07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
