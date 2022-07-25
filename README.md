@@ -2,7 +2,7 @@
 
 #### :hammer_and_wrench: I'm a UX Designer with an interest in cogsci, usability engineering & HCI.
 
-#### 🔭 I'm usually working in the areas of UXR/UX/UI.
+#### 🔭 I'm usually working in the areas of UXR/UX/UI, building economically feasible & socially desirable innovations.
 
 #### :art: My [visual musings](https://ioanabitoiu.myportfolio.com/) are under :construction:, yet feel free to take a glimpse.
 
