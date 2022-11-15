@@ -1,6 +1,6 @@
 ### Hey, I'm Ioana :green_heart:
 
-#### :hammer_and_wrench: I'm a UX Designer with an interest in cogsci, usability engineering & HCI.
+#### :hammer_and_wrench: I'm a Product Designer with an interest in cogsci, usability engineering & HCI.
 
 #### 🔭 I'm usually working in the areas of UXR/UX/UI, building economically feasible & socially desirable innovations.
 
